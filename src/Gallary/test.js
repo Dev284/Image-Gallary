@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "/var/www/html/React_project/image_gallary/src/App.css";
-// import car from './cars/Cycle2.png'
+import "../App.css";
+// import car from './cars/Bike3.jpg'
 const Test = () => {
   const Data = [
     {
